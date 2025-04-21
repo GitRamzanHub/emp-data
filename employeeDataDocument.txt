@@ -1,0 +1,8 @@
+VGIPL Employee Data Project Requirement
+---------------------------------------------
+1. login page
+2. registration page
+3. user role
+4. demo to send an email
+5. number verify with otp
+---------------------------------------------
